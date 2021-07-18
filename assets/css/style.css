@@ -25,7 +25,8 @@ header {
 }
 
 section {
-    padding: 300px;
+    margin: 80px;
+    padding: 200px;
     background-image: url('../images/blackfriday.png');
     background-position: center;
     background-repeat: no-repeat;
@@ -34,11 +35,12 @@ section {
 }
 
 .formContainer {
-    position: fixed;
-    margin-left: 60%;
+    width: 30%;
+    margin: 100px;
+    margin-right: auto;
+    margin-left: auto;
     background-color: rgb(42, 64, 189);
     padding: 20px;
-    float: left;
 }
 
 h2 {
@@ -50,6 +52,7 @@ h2 {
 }
 
 .mb {
+    text-align: justify;
     margin-bottom: 15px;
     color: #fff;
 }
