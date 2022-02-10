@@ -7,3 +7,6 @@ Projeto desenvolvido para o primeiro desafio da formação FullStack do Hiring C
 Objetivo: construir uma Landing Page de promoções estilo Black Friday, onde o usuário pode cadastrar seu nome e e-mail e os dados ficam salvos no Local Storage.
 
 Tecnologias utilizadas: HTML, CSS e JavaScript.
+
+LINK DO PROJETO:
+https://oandreroque-ecommercepage.netlify.app/
